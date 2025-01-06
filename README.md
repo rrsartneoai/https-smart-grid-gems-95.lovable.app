@@ -21,8 +21,7 @@ Szczegóły i analiza:
 RAG (Retrieval-Augmented Generation): To ważny aspekt projektu. RAG łączy model generatywny (np. duży model językowy) z systemem wyszukiwania informacji. Oznacza to, że chatbot nie tylko odpowiada na pytania na podstawie swojej wiedzy, ale także przeszukuje bazę danych (np. dokumenty, pliki CSV z danymi pomiarowymi) i wykorzystuje te informacje do generowania odpowiedzi. To sprawia, że odpowiedzi są bardziej precyzyjne i oparte na aktualnych danych.
 Smart Grids: Projekt jest ściśle ukierunkowany na dane z inteligentnych sieci pomiarowych. To sugeruje, że chatbot będzie w stanie odpowiadać na pytania dotyczące zużycia energii, statusu urządzeń, potencjalnych awarii, trendów i innych aspektów związanych z tym sektorem.
 Open-source: Otwartość kodu źródłowego zachęca do współpracy, rozwoju i transparentności. Pozwala także na adaptację i wykorzystanie projektu w różnych środowiskach.
-Jupyter Notebook: Dominacja Jupyter Notebook w repozytorium sugeruje, że projekt jest w dużej mierze nastawiony na eksperymentowanie, eksplorację danych, tworzenie prototypów i udostępnianie interaktywnych analiz.
-Python: Potwierdza popularność języka Python w analizie danych i uczeniu maszynowym. To dobry wybór dla projektu opartego na RAG.
+
 Instalacja: Jasne instrukcje dotyczące instalacji (klonowanie, zmiana katalogu, instalacja zależności) są istotne dla potencjalnych użytkowników i kontrybutorów.
 Użycie: Wskazanie na dokumentację projektu jest pozytywnym aspektem. Dokumentacja jest kluczowa dla zrozumienia działania i wykorzystania chatbota.
 Wkład: Zaproszenie do współpracy i zgłaszania błędów zachęca społeczność do aktywnego udziału w rozwoju projektu.
